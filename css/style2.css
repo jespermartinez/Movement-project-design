@@ -1,0 +1,12 @@
+
+
+    @media(max-width:780px){
+
+
+        .sec_main .row_case_main .right_case .right_case_container .row_label_1 p.value{padding-right:0;}   
+        .sec_main .row_case_main .right_case .right_case_container .row_label_2 p.value{padding-right:0;} 
+
+        .sec_main .row_case_main .right_case .right_case_container .row_bottom_label{flex-direction:column;}
+       
+
+    }
